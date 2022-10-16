@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="40.257549mm"
+   height="14.563055mm"
+   viewBox="0 0 40.257549 14.563055"
+   version="1.1"
+   id="svg5"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2785">
+      <stop
+         style="stop-color:#ebedff;stop-opacity:1;"
+         offset="0"
+         id="stop2781" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop2783" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2785"
+       id="linearGradient2787"
+       x1="51.308453"
+       y1="17.438429"
+       x2="67.498405"
+       y2="51.832008"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(10.790476,-1.5414966)" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter3533"
+       x="-0.020626966"
+       y="-0.061496541"
+       width="1.0412539"
+       height="1.1229931">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.33228816"
+         id="feGaussianBlur3535" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-49.426366,-22.27374)">
+    <rect
+       style="mix-blend-mode:normal;fill:#000000;fill-opacity:0.45339;stroke-width:0.264583;filter:url(#filter3533)"
+       id="rect3531"
+       width="38.662571"
+       height="12.968072"
+       x="50.223854"
+       y="23.07123"
+       ry="4.0273519" />
+    <rect
+       style="fill:url(#linearGradient2787);fill-opacity:1;stroke-width:0.264583"
+       id="rect1820"
+       width="38.662571"
+       height="12.968072"
+       x="49.694687"
+       y="22.542063"
+       ry="4.0273519" />
+    <g
+       id="g2803"
+       transform="translate(10.726553,-1.3411701)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Kanit;-inkscape-font-specification:'Kanit Heavy';letter-spacing:-0.264583px;word-spacing:0px;fill:#ff109b;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="55.622879"
+         y="33.00251"
+         id="text167-1"><tspan
+           sodipodi:role="line"
+           id="tspan165-8"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Kanit;-inkscape-font-specification:'Kanit Heavy';fill:#ff109b;fill-opacity:1;stroke-width:0.264583"
+           x="55.622879"
+           y="33.00251"
+           dx="0 0 0">hug</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Kanit;-inkscape-font-specification:'Kanit Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="41.756699"
+         y="33.00251"
+         id="text113-8"><tspan
+           sodipodi:role="line"
+           id="tspan111-5"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Kanit;-inkscape-font-specification:'Kanit Semi-Bold';stroke-width:0.264583"
+           x="41.756699"
+           y="33.00251"
+           dx="0 0 -0.66000003">gig</tspan></text>
+    </g>
+  </g>
+</svg>
